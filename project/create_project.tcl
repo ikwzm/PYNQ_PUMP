@@ -1,4 +1,3 @@
-
 #
 # create_project.tcl  Tcl script for creating project
 #
